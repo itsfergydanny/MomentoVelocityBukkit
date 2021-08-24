@@ -1,0 +1,5 @@
+name: MomentoVelocityBukkit
+version: '${project.version}'
+main: ca.dannyferguson.momentovelocitybukkit.MomentoVelocityBukkit
+commands:
+  connect:
